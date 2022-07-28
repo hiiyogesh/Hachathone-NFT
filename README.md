@@ -1,4 +1,4 @@
-#### 3. Build the project and test. Go to the root project directory and type the commands :
+#### 3. Build the project and test. Go to the root project directory and type the commands : 
 
 To install dependencies :
 
